@@ -8,3 +8,4 @@ Things to keep in mind if you use this to 3d print your faceplate:
   * It assumes the resistive touch membrane is disconnected and removed
   * There is still some room between the bottom of the faceplate and the screen
 
+![4-button Preview](https://i.imgur.com/18tOmow.png)
